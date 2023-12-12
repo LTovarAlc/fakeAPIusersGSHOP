@@ -1,14 +1,14 @@
 {
     "users": [
         {
-            "emai": "luis@email.com",
+            "email": "luis@email.com",
             "lastname": "Tovar Alcalá",
             "name": "Luis Humberto",
             "password": "Enero13",
             "userID": "ca87710c-8e87-474c-8782-0e52aeb21e51"           
         },
         {
-            "emai": "Pedro@email.com",
+            "email": "Pedro@email.com",
             "lastname": "Granados Carrillo",
             "name": "Pedro Alberto",
             "password": "Febrero13",
